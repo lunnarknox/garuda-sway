@@ -1,34 +1,27 @@
-![Screenshot_2024-10-07-23-34-21_](https://github.com/user-attachments/assets/0cd1f344-7857-48c5-adb9-62894d24eecb)
+![Screenshot_2024-10-07-23-34-21_]([https://github.com/user-attachments/assets/0cd1f344-7857-48c5-adb9-62894d24eecb](https://raw.githubusercontent.com/lunnarknox/garuda-sway/master/exemple.png))
 
-<h1 align="center"> Yurihikari's Garuda Linux Dotfiles </h1>
+<h1 align="center"> Lunnar's Garuda Linux Dotfiles </h1>
 
 
-<p align="center">
-  <a href="https://github.com/yurihikari/garuda-sway-config/stargazers"><img src="https://img.shields.io/github/stars/yurihikari/garuda-sway-config?color=f5bde6&style=for-the-badge&logo=starship"></a>
-  <a href="https://github.com/yurihikari/garuda-sway-config/issues"><img src="https://img.shields.io/github/issues/yurihikari/garuda-sway-config?color=ed8796&style=for-the-badge&logo=codecov"></a>
-  <a href="https://github.com/yurihikari/garuda-sway-config/network/members"><img src="https://img.shields.io/github/forks/yurihikari/garuda-sway-config?color=8aadf4&style=for-the-badge&logo=jfrog-bintray"></a>
-  <a href="https://github.com/yurihikari/garuda-sway-config/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-orange.svg?color=a6da95&style=for-the-badge&logo=mitsubishi"></a>
-</p>
 
 ## Wiki 📖
-**I NO LONGER MAINTAIN THE SWAY DOTFILES**
 
-Here is the wiki link for those dotfiles if you want a better understanding of how it works and how to use it. (Also better table of contents). Let me know if the wiki is down since i'm self-hosting it.
+For more details and a comprehensive guide on using these dotfiles, check out the wiki. If you run into any issues accessing it (since it's self-hosted), let me know.
 
-Wiki : [Wiki Link](https://dotfiledocs.lightcrimson.com/)
+Ready to get started?
+
+Download : [Garuda Download](https://garudalinux.org/editions)
 
 You can also use the github wiki : [Github Wiki Link](https://github.com/yurihikari/garuda-hyprdots/wiki)
 
 ## About ❓
-A simple aesthetic (at least for me) sway ricing on Garuda Linux. It also includes a Hyprland config but you'll have to install Hyprland yourself to use it.
-I edited ArchCraft dotfiles for Hyprland for my base rice. I changed most of the colors and the waybar is the same as in my Sway ricing.
+This is a customized mix of Yurihikari themes, optimized for dyslexia-friendly reading and adapted for the personal use of Remi Lunnar.
 
-The aim of this repository is to provide a simple and easy to use ricing for Garuda Linux Sway and Hyprland. This was made before the official Garuda Linux Hyprland release.
+The aim of this repository is to provide a simple and easy to use ricing for Garuda Linux Sway and Hyprland. This was made before the official Garuda Linux Hyprland/Sway release.
 
-I Love Catpuccin colors.
 
 ## Additional features 👍
-- Waybar themes switch
+- Waybar themes switch (The main setup I use is intentionally minimalist to help with my dyslexia, making everything cleaner and easier to navigate. However, you still get access to all official repository themes, including the Waybar themes switch.)
 - Background switch using Meta+Shift+b. (Backgrounds must be in the ~/.config/backgrounds folder)
 - Easily add musics to mpd with the mpd_update function ( Assuming your musics are in ~/Music )
 
@@ -88,7 +81,7 @@ After you installed the dependencies (some may be missing depending of your dist
 
 *Example* :
 ```bash
-git clone https://github.com/yurihikari/garuda-sway-config.git
+git clone https://github.com/lunnarknox/garuda-sway-config.git
 cp -r garuda-sway-config/* ~/.config
 ```
 
@@ -103,7 +96,7 @@ Reboot and enjoy.
 Run the **install.sh** script located at the root of the repository directory to install the dotfiles and its dependencies.
 
 ```bash
-git clone https://github.com/yurihikari/garuda-sway-config.git
+git clone https://github.com/lunnarknox/garuda-sway-config.git
 cd ./garuda-sway-config
 ./install.sh
 # You'll have some interactions sometime, it's not fully automatized
@@ -158,17 +151,18 @@ I am not affiliated in any way to the official Garuda Linux Team. This is a pers
 ![Screenshot_2024-10-07-23-22-13_12179](https://github.com/user-attachments/assets/97dad12f-5c2c-45ea-905d-4303e3f35bc3)
 
 ### Old
-![image](https://github.com/yurihikari/garuda-sway-config/assets/83579522/a5153162-3cb7-4dfd-9975-466c5d2753b5)
-![image](https://github.com/yurihikari/garuda-sway-config/assets/83579522/46e58986-51dd-477e-8289-bc4a4c429926)
-![Screenshot_2024-03-27-00-04-26_](https://github.com/yurihikari/garuda-sway-config/assets/83579522/b950a49a-d7b1-4e8d-a40a-9a50d5968439)
-![image](https://github.com/yurihikari/garuda-sway-config/assets/83579522/0f8c82d2-2959-4538-b16c-8cac1d8aee59)
-![image](https://github.com/yurihikari/garuda-sway-config/assets/83579522/38fa971c-cc00-4e0a-a645-1b39ba7f9615)
-![image](https://github.com/yurihikari/garuda-sway-config/assets/83579522/99ae3f0a-6976-4a17-b8eb-caabea3ba3de)
+![image](https://github.com/lunnarknox/garuda-sway-config/assets/83579522/a5153162-3cb7-4dfd-9975-466c5d2753b5)
+![image](https://github.com/lunnarknox/garuda-sway-config/assets/83579522/46e58986-51dd-477e-8289-bc4a4c429926)
+![Screenshot_2024-03-27-00-04-26_](https://github.com/lunnarknox/garuda-sway-config/assets/83579522/b950a49a-d7b1-4e8d-a40a-9a50d5968439)
+![image](https://github.com/lunnarknox/garuda-sway-config/assets/83579522/0f8c82d2-2959-4538-b16c-8cac1d8aee59)
+![image](https://github.com/lunnarknox/garuda-sway-config/assets/83579522/38fa971c-cc00-4e0a-a645-1b39ba7f9615)
+![image](https://github.com/lunnarknox/garuda-sway-config/assets/83579522/99ae3f0a-6976-4a17-b8eb-caabea3ba3de)
 
 ## Special Thanks 🙏
 
-- [Garuda Linux](https://garudalinux.org/) for the amazing distro and base config.
+- [LightCrimson](https://github.com/yurihikari) for the amazing base config.
 - [Hyprpanel (Jas-SinghFSU)](https://github.com/Jas-SinghFSU/HyprPanel) for the AGS config.
 - [Archcraft](https://archcraft.io/) for the base Hyprland config and inspiration.
 - [Catppuccin](https://github.com/catppuccin/catppuccin) for their amazing color palette.
+- - [Understood](https://github.com/catppuccin/catppuccin) Thank you for the practical tips on how to manage dyslexia!
 
